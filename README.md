@@ -15,7 +15,8 @@ The given repository showcases the various projects worked on different probelm 
 ## Pet Adoption
 ![alt text](https://raw.githubusercontent.com/VijayMukkala/Mini-Projects/master/Pet%20Adoption/pet-adoption-5441817_640.png)
 
-Build a __Machine Learning__ model that determines type and breed of the animal based on its physical atrributes and other factors
+Build a __Machine Learning__ model that determines type and breed of the animal based on its physical atrributes and other factors which will help in creating virtual tour experience for the cutomers that are available in the shelter.
+
 - [Link for the Jupyter notebook](https://https://github.com/VijayMukkala/Mini-Projects/blob/master/Pet%20Adoption/Pet%20Adoption_final.ipynb)
 
 
